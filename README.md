@@ -2,7 +2,7 @@
 
 This repository provides a central location for information related to the Open Metaverse Foundation as a whole. Here you can find information about OMF's development process, the processes the project uses and how to contribute.
 
-Ensure you read the [code of conduct](code-of-conduct.md), [values](values.md) and [contributing](CONTRIBUTING.md) guides. Then reach out to *Special Interest Groups* that are involved in the areas you want to contribute to.
+Ensure you read the [code of conduct](CODE-OF-CONDUCT.md) and [values](values.md) guides. Then reach out to *Foundational Interest Groups* that are involved in the areas you want to contribute to.
 
 # Foundational Interest Groups
 
