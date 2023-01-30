@@ -1,0 +1,2 @@
+# foundation
+Foundational documentation
